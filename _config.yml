@@ -7,19 +7,19 @@
 
 # Site settings
 title: A mad world of pointers
-email: shelajev@gmail.com 
+email: shelajev@gmail.com
 description: >
-  Personal notes on 
-logo: "/assets/images/logo.jpg"
+  Personal notes on
+logo: "assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shelajev.github.io/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Oleg Šelajev'
 bio: >
-  Developer, writer, speaker, student. 
-  Java, Haskell, JavaScript. 
-author_image: "/assets/images/author.jpg"
+  Developer, writer, speaker, student.
+  Java, Haskell, JavaScript.
+author_image: "assets/images/author.jpg"
 twitter_username: shelajev
 github_username:  shelajev
 
